@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>La nouvelle Clarice, histoire véritable : MiMoText edition</title>
-        <author ref="viaf:64000638">Adam, Juliette (1836-1936)</author>
+        <author ref="viaf:31999252;wikidata:Q466788">Leprince de Beaumont, Jeanne-Marie (1711-1780)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Christof Schöch</name>
@@ -17,10 +17,10 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">012345689</measure>
+        <measure unit="words">69000</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">Mining and Modeling Text (MiMoText))</publisher>
+        <publisher ref="https://mimotext.uni-trier.de">Mining and Modeling Text</publisher>
         <distributor ref="https://github.com/mimotext/roman-dixhuit">Github</distributor>
         <date>2020</date>
         <availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.en"/></availability>
@@ -28,14 +28,13 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <title>La nouvelle Clarice, histoire véritable, par Mme Le Prince de Beaumont</title>
-          <author>Madame Leprince de Beaumont</author>
+          <author>Leprince de Beaumont, Madame</author>
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6550212p"/>
           <date>2013</date>
         </bibl>
         <bibl type="printSource">
           <title>La nouvelle Clarice histoire véritable, par Mme Le Prince de Beaumont</title>
-          <author>Madame Leprince de Beaumont</author>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6550212p"/>
+          <author>Leprince de Beaumont, Madame</author>
           <pubPlace>Lyon</pubPlace>
           <publisher>P. Bruyset-Ponthus</publisher>
           <date>1767</date>
@@ -95,23 +94,17 @@
     rend="italic">Royale {et} Syndicale des Libraires {et} Imprimeurs de</hi> <hi rend="italic">Paris, No. 1288, fol. 226 conformément au Régle-</hi> <hi rend="italic">ment de 1723. A Paris, ce 17 Juin 1767.</hi> </hi> </p> <p> <hi rend="small"> <hi
     rend="italic">Signé</hi> GANEAU, Syndic.</hi> </p> </div> <div> <pb n="15"/> <head>LA NOUVELLE <hi rend="italic">CLARICE,</hi> HISTOIRE VÉRITABLE.</head> </div> </front> -->
     <body>
+      <div type="chapter">
+        <p></p>
+        <!-- DIV TO BE DELETED ONCE SCHEMA IS UPDATED -->
+        </div>
       <div type="letter">
-        <head rend="italic">LETTRE DE CLARICE
-          <hi rend="italic; small caps">a Lady Hariote.</hi>
-        </head>
-        <p>
-          <hi rend="small caps">
-            <hi rend="caps;initials">P</hi>Erdre</hi>
-          tout à la fois une tante que j'ai toujours regar- dée comme la meilleure des meres, &amp; une amie qui devoit essuyer mes larmes en y mêlant les siennes, c'en est plus que votre Clarice n'en peut supporter. Aussi suis-je dans un accablement qu'on
-          pourroit prendre pour de l'insensibilité. J'ai passé les
+        <head>LETTRE DE CLARICE a Lady Hariote.</head>
+        <p>Perdre tout à la fois une tante que j'ai toujours regardée comme la meilleure des mères, &amp; une amie qui devait essuyer mes larmes en y mêlant les siennes, c'en est plus que votre Clarice n'en peut supporter. Aussi suis-je dans un accablement qu'on pourrait prendre pour de l'insensibilité. J'ai passé les
           <pb n="16"/>
-          deux jours qui ont suivi la mort de cette tante chérie, dans un silence stupide, ouvrant de grands yeux sans rien voir, écoutant sans rien entendre, &amp; dans une indifférence parfaite sur ce que j'allois devenir. Vous le savez, mes Parents
-          m'étoient inconnus, puis- que je ne les ai vu depuis l'âge de trois ans, &amp; que la haine de mon pere pour sa respectable sœur, ne lui avoit pas permis d'entretenir avec elle la moindre correspondance. Ma tante m'avoit souvent répété que j'avois
-          une mere digne de toute ma tendresse, &amp; d'un sort plus heureux que celui qu'elle éprouvoit; elle m'avoit même avoué que sa belle- sœur ne subsistoit que par ses bien- faits, &amp; qu'elle étoit réduite à les lui faire tenir en secret,
-          c'est-à-dire, sous un nom supposé. Ses discours avoient fait naître en moi un desir violent de connoître cette mere, &amp; une frayeur encore plus vive de tom- ber au pouvoir de ce pere qu'on me dépeignoit si terrible. Vous avez sou- vent été temoin
-          de mes sentiments à cet égard, &amp; il étoit naturel qu'ils se fissent sentir avec plus de force, au moment où mes desirs &amp; mes
+          deux jours qui ont suivi la mort de cette tante chérie, dans un silence stupide, ouvrant de grands yeux sans rien voir, écoutant sans rien entendre, &amp; dans une indifférence parfaite sur ce que j'allais devenir. Vous le savez, mes Parents m'étaient inconnus, puisque je ne les ai vu depuis l'âge de trois ans, &amp; que la haine de mon père pour sa respectable sœur, ne lui avait pas permis d'entretenir avec elle la moindre correspondance. Ma tante m'avait souvent répété que j'avais une mère digne de toute ma tendresse, &amp; d'un sort plus heureux que celui qu'elle éprouvait; elle m'avait même avoué que sa belle-sœur ne subsistait que par ses bienfaits, &amp; qu'elle était réduite à les lui faire tenir en secret, c'est-à-dire, sous un nom supposé. Ses discours avaient fait naître en moi un désir violent de connaître cette mère, &amp; une frayeur encore plus vive de tomber au pouvoir de ce père qu'on me dépeignait si terrible. Vous avez souvent été témoin  de mes sentiments à cet égard, &amp; il était naturel qu'ils se fissent sentir avec plus de force, au moment où mes désirs &amp; mes
           <pb n="17"/>
-          craintes alloient se réaliser. La dou- leur eut la force de les absorber. Assise en silence auprès des précieux restes de ma tante bien - aimée, la confusion qui régnoit dans le Châ- teau ne fut pas capable de me distraire; les gens de Justice, des
+          craintes allaient se réaliser. La douleur eut la force de les absorber. Assise en silence auprès des précieux restes de ma tante bien - aimée, la confusion qui régnoit dans le Châ- teau ne fut pas capable de me distraire; les gens de Justice, des
           amis, des parents éloignés le remplissoient: les premiers mettoient les scellés par- tout, se saisissoient des clefs, &amp; don- noient les ordres nécessaires pour hâter l'arrivée de mon pere &amp; du Doyen de Colborn, auquel ma tante avoit confié
           son testament. Les seconds s'efforçoient de rappeller mes esprits, &amp; me faisoient, pour ainsi dire, une garde contre la malice des derniers, qui me regardoient avec une sorte de fureur, dans la crainte que ma tante ne m'eût avantagée à leurs dé-
           pens: car on ne pouvoit se persua- der qu'elle n'eût pas exclus mon pere du nombre de ses successeurs. Milady Horton qui m'a toujours témoigné tant de bonté, fit d'inutiles efforts pour m'arracher d'un spectacle qui nourrissoit mon désespoir; je
