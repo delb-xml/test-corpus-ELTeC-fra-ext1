@@ -1,0 +1,21 @@
+filename	xmlid	au-name	title	au-birth	au-death	au-ids	digitalSource	firsted-yr	title-ids	language	numwords	subgenre	narr-per	au-gender	sizeCat	reprintCount	time-slot
+FRA03703_Sand	FRA03703	Sand, George [Amantine Lucile Aurore Dupin]	Le Compagnon du Tour de France	1804	1876	viaf:46766944	NA	1840	viaf:194896547	fr	89154	NA	NA	F	medium	high	T1
+FRA04101_Erckmann	FRA04101	Erckmann, Émile	Waterloo	1822	1899	viaf:31995972	NA	1865	viaf:182215847	fra	81303	NA	NA	M	medium	NA	T2
+FRA04003_Verne	FRA04003	Verne, Jules	Voyages et aventures du Capitaine Hatteras	1828	1905	viaf:76323989	NA	1866	viaf:176496719	fra	144174	NA	NA	M	long	NA	T2
+FRA01901_Gaboriau	FRA01901	Gaboriau, Émile	Le crime d'Orcival	1832	1873	viaf:100177491	NA	1866	viaf:312348929	fra	127326	NA	NA	M	long	low	T2
+FRA03103_Ponson	FRA03103	Ponson du Terrail, Pierre Alexis	La fée d’Auteuil	1829	1871	viaf:17228199	NA	1868	viaf:missing	fra	64938	NA	NA	M	medium	NA	T2
+FRA01903_Gaboriau	FRA01903	Gaboriau, Émile	L'Argent des autres	1832	1873	viaf:100177491	NA	1874	viaf:312338404	fra	173622	NA	NA	M	long	NA	T2
+FRA02503_Loti	FRA02503	Loti, Pierre	Aziyadé : Extrait des notes et lettres d'un lieutenant de la marine anglaise 	1850	1923	viaf:89440078	NA	1879	viaf:185695658	fra	53825	NA	NA	M	medium	NA	T2
+FRA00303_Aimard	FRA00303	Aimard, Gustave	Les Bandits de l'Arizona	1818	1883	viaf:9841962	NA	1881	viaf:307977755	fra	72134	NA	NA	M	medium	NA	T3
+FRA00903_Daudet	FRA00903	Daudet, Alphonse	Numa Roumestan : Mœurs Parisiennes	1840	1897	viaf:4928621	Ebooks libres et gratuits	1881	viaf:287900644	fr	85708	NA	heterodiegetic	M	medium	low	T3
+FRA03902_Stolz	FRA03902	Stolz, Madame de [Fanny de Bégon]	La Maison blanche	1820	1898	viaf:19850120 wikidata:Q3275360	NA	1884	viaf:unavailable	fr	52128	NA	NA	F	medium	low	T3
+FRA02801_Mirbeau	FRA02801	Mirbeau, Octave	L'abbé Jules	1848	1917	viaf:100204602	Ebooks libres et gratuits	1888	viaf:310534644 	fr	78137	NA	homodiegetic	M	medium	high	T3
+FRA00603_Boisgobey	FRA00603	Boisgobey, Fortuné du	Double-blanc	1821	1891	viaf:19720225	NA	1889	viaf:unavailable	fra	125052	NA	NA	M	long	NA	T3
+FRA02703_Maupassant	FRA02703	Maupassant, Guy de	Fort comme la mort	1850	1893	viaf:29537765	NA	1889	viaf:191941628	fra	75586	NA	NA	M	medium	NA	T3
+FRA01103_Dombre	FRA01103	Dombre, Roger	La Nounou	1859	1914	viaf:37053113	NA	1890	oclc:457907781 viaf:unavailable	fra	40970	NA	NA	F	short	NA	T3
+FRA00902_Daudet	FRA00902	Daudet, Alphonse	Port-Tarascon : Dernières aventures de l'illustre Tartarin	1840	1897	viaf:4928621	NA	1890	viaf:179981155	fra	46932	NA	NA	M	short	NA	T3
+FRA02803_Mirbeau	FRA02803	Mirbeau, Octave	Le Jardin des supplices	1848	1917	viaf:100204602	NA	1899	viaf:293386073	fra	64881	NA	NA	M	medium	NA	T3
+FRA02402_LeRouge	FRA02402	Le Rouge, Gustave	La Conspiration des Milliardaires	1867	1938	viaf:7392910	NA	1900	viaf:unavailable	fr	76673	NA	NA	M	medium	low	T4
+FRA04201_Rolland	FRA04201	Rolland, Romain	L'aube	1866	1944	viaf:71397100	NA	1904	viaf:312469768	fr	41108	NA	NA	M	short	low	T4
+FRA04203_Rolland	FRA04203	Rolland, Romain	La foire sur la place	1866	1944	viaf:71397100	NA	1908	viaf:312469772	fra	69465	NA	NA	M	medium	NA	T4
+FRA02403_LeRouge	FRA02403	Le Rouge, Gustave	La Guerre des vampires	1867	1938	viaf:7392910	NA	1909	viaf:8889151656380608400006	fra	73470	NA	NA	M	medium	NA	T4
