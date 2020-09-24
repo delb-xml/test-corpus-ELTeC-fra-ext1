@@ -25,7 +25,7 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Feedbooks
           <date></date>
           ,
@@ -34,7 +34,7 @@
           <ref target="http://www.feedbooks.com/"></ref>
           via Ebooksgratuits.
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date>source</date>
         </bibl>
         <bibl type="firstEdition">
@@ -52,7 +52,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"></reprintCount>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
       </textDesc>
     </profileDesc>
@@ -62,11 +62,8 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <front>
-      <div></div>
-    </front>
     <body>
-      <div type="part">
+      <div type="group">
         <p>
           <label>Partie 1</label>
         </p>
@@ -1048,7 +1045,7 @@
           <p>De cette ressemblance naturelle et voulue, réelle et travaillée, était née dans l’esprit et dans le cœur du peintre l’impression bizarre d’un être double, ancien et nouveau, très connu et presque ignoré, de deux corps faits l’un après l’autre avec la même chair, de la même femme continuée, rajeunie, redevenue ce qu’elle avait été. Et il vivait près d’elles, partagé entre les deux, inquiet, troublé, sentant pour la mère ses ardeurs réveillées et couvrant la fille d’une obscure tendresse.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>Partie 2</label>
         </p>

@@ -25,7 +25,7 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Ebooks libres et gratuits,
           <date>2004</date>
           ,
@@ -34,7 +34,7 @@
           <ref target="http://www.ebooksgratuits.com/"></ref>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date></date>
         </bibl>
         <bibl type="firstEdition">
@@ -52,7 +52,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"></reprintCount>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
       </textDesc>
     </profileDesc>
@@ -63,7 +63,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="part">
+      <div type="group">
         <p>
           <label>PREMIÈRE PARTIE -- LES ANGLAIS AU PÔLE NORD</label>
         </p>
@@ -2109,7 +2109,7 @@
           <p>Et cependant, la situation était terrible pour ces quatre hommes et ce mourant, abandonnés sans ressource, perdus, seuls, sous le quatre-vingtième degré de latitude, au plus profond des régions polaires !</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>SECONDE PARTIE -- LE DÉSERT DE GLACE.</label>
         </p>

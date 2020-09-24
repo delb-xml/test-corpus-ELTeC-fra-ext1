@@ -25,7 +25,7 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Bibliothèque électronique du Québec,
           <date></date>
           ,
@@ -34,7 +34,7 @@
           <ref target="http://beq.ebooksgratuits.com"></ref>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date></date>
           ,
           <idno></idno>
@@ -62,7 +62,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"></reprintCount>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
       </textDesc>
     </profileDesc>

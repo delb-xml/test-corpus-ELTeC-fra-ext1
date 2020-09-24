@@ -25,7 +25,7 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           <date>2004</date>
           ,
           <idno></idno>
@@ -33,7 +33,7 @@
           <ref target="http://www.ebooksgratuits.com/"></ref>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date>source</date>
         </bibl>
         <bibl type="firstEdition">
@@ -51,7 +51,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"></reprintCount>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
       </textDesc>
     </profileDesc>
@@ -62,7 +62,7 @@
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="liminal">
         <p>Aux Prêtres, aux Soldats, aux Juges, aux Hommes, qui éduquent, dirigent, gouvernent les Hommes, je dédie ces pages de Meurtre et de Sang.</p>
         <p>O. M.</p>
       </div>
@@ -126,7 +126,7 @@
         <p>-- J'ai écrit, dit-il, le récit de cette partie de ma vie... Longtemps, j'ai hésité à le publier, et j'hésite encore. Je voudrais vous le lire, à vous qui êtes des hommes et qui ne craignez pas de pénétrer au plus noir des mystères humains... Puissiez-vous pourtant en supporter l'horreur sanglante !... Cela s'appelle : Le Jardin des supplices...</p>
         <p>Notre hôte demanda de nouveaux cigares et de nouvelles boissons...</p>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>Première partie</label>
         </p>
@@ -563,7 +563,7 @@
           <p>Le lendemain matin, après une sauvage nuit d'amour, nous reprenions la mer, en route vers la Chine.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>Deuxième partie -- Le Jardin des supplices</label>
         </p>
