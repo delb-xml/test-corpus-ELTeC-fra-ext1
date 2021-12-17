@@ -2,7 +2,7 @@
 	<teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
 		<fileDesc>
 			<titleStmt><title>Paula Monti, Tome I : édition ELTeC</title><author ref="viaf:66473859">Sue, Eugène (-)</author></titleStmt>
-			<extent><measure unit="words">45450</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+			<extent><measure unit="words">45450</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
 			<sourceDesc>
 				<bibl type="digitalSource">
          Produced by Carlo Traverso, Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net. This file was produced from images generously made available by the Bibliothèque nationale de France (BnF/Gallica) <date>2005</date>, <idno>16875</idno>, <ref target="http://www.gutenberg.org/ebooks/16875"/>.
@@ -17,7 +17,7 @@
 		</fileDesc>
 		<encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
 		<profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-		<revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-10-09">sp : Initial TEI version.</change></revisionDesc>
+		<revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-10-09">sp : Initial TEI version.</change></revisionDesc>
 	</teiHeader>
 	<text>
 		<body>

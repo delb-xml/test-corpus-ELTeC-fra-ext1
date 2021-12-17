@@ -15,7 +15,7 @@
  </xsl:variable>
 
  <xsl:variable name="textId">
-  <xsl:value-of select="concat('R19', substring-after($cligsId, 'rd'))"/>
+  <xsl:value-of select="concat('R19', substring($cligsId, 3,4))"/>
  </xsl:variable>
  
  <xsl:variable name="wordCount"><xsl:choose>
@@ -208,7 +208,7 @@
  </xsl:template>
 
  
- <xsl:template match="t:div[not(@type)][t:div]">
+ <xsl:template match="t:body//t:div[not(@type)][t:div]">
   <div type="group">
    <xsl:apply-templates/>
   </div>  
@@ -218,6 +218,12 @@
   <div type="chapter">
    <xsl:apply-templates/>
   </div>  
+ </xsl:template>
+ 
+ <xsl:template match="t:back/t:div[not(@type = 'notes')]">
+  <div type="liminal">
+   <xsl:apply-templates/>
+  </div>
  </xsl:template>
  
  <xsl:template match="t:div[@type='section']">

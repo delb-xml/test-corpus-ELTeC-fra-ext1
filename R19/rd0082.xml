@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title>Autour de la lune : édition ELTeC</title><author ref="viaf:76323989">Verne, Jules (-)</author></titleStmt>
-      <extent><measure unit="words">57710</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">57710</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource"><date>2003</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.</bibl>
         <bibl type="printSource"><date>source</date>, 44 dessins par Émile Bayard et A. De Neuville gravés par Hildibrand. </bibl>
@@ -13,7 +13,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="medium"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -1794,10 +1794,10 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>FIN</p>
       </div>
-      <div>
+      <div type="liminal">
         <p>1 Il est bien entendu que par ce mot « mers » nous désignons ces immenses espaces, qui, probablement recouverts par les eaux autrefois, ne sont plus actuellement que de vastes plaines.</p>
         <p>2 Herschel, en effet, a constaté que, pour les satellites, le mouvement de rotation sur leur axe est toujours égal au mouvement de révolution autour de la planète. Par conséquent, ils lui présentent toujours la même face. Seul, le monde d’Uranus offre une différence assez marquée : les mouvements de ses Lunes s’effectuent dans une direction presque perpendiculaire au plan de l’orbite, et la direction de ses mouvements est rétrograde, c’est-à-dire que ses satellites se meuvent en sens inverse des autres astres du monde solaire.</p>
         <p>3 La vitesse moyenne du mouvement de la Terre, le long de l’écliptique, n’est que de 30 kilomètres à la seconde.</p>

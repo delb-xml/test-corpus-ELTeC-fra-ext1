@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title> : édition ELTeC</title><author ref="viaf:46766944">Sand, George (-)</author></titleStmt>
-      <extent><measure unit="words">38748</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">38748</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           Bibliothèque électronique du Québec, <date/>, <idno/>, <ref target="http://beq.ebooksgratuits.com"/>.
@@ -17,7 +17,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-07-17">#cf : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-07-17">#cf : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -898,7 +898,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>1  Cette notice précède le roman depuis l'édition des <hi>Œuvres illustrées de George Sand, </hi>publiée par Hetzel en 1852.</p>
         <p>2  Le <hi>chanvre</hi> fut beaucoup cultivé pour sa tige qui donne une fibre textile solide ; on en faisait de la toile et on en fabrique encore de la corde. (...) Pour extraire la fibre textile, plusieurs opérations étaient nécessaires et la tâche du <hi>chanvreur</hi> consistait à broyer le chanvre avec de grosses mâchoires en bois, après le <hi>rouissage</hi>, par lequel on avait amolli la tige et éliminé tout ce qui n'était pas la fibre. George Sand fait intervenir cet artisan dans plusieurs de ses romans champêtres (<hi>François le Champi</hi>, 1847, et <hi>Les Maîtres sonneurs</hi>, 1853) comme un conteur et un chanteur, comme une sorte de « meneur » dans les réjouissances villageoises ; dans <hi>La Mare au diable</hi>, on le voit à l'œuvre au moment des noces de Germain et de Marie.</p>
         <p>1  Allusion à la tradition de la littérature pastorale et à la mode de la vie rustique lancée par la reine Marie-Antoinette.</p>

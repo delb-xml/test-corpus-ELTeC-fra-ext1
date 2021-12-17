@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title>Les mystères du peuple. Histoire d'une famille de prolétaires à travers les âges, tome 16 : édition ELTeC</title><author ref="viaf:author">Sue, Eugène (-)</author></titleStmt>
-      <extent><measure unit="words">165100</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">165100</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource"><date>2012</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.</bibl>
         <bibl type="printSource">
@@ -15,7 +15,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -2899,7 +2899,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>L'AUTEUR AUX LECTEURS DES MYSTÈRES DU PEUPLE</p>
         <p>CHERS LECTEURS,</p>
         <p>Il y a environ neuf ans, peu de mois après la proclamation de la république de février, je commençais d'écrire ce livre, je viens de l'achever en exil. La tâche était immense, c'est dire qu'elle était au-dessus de mes forces ; je l'ai cependant poursuivie de mon mieux jusqu'à la fin, soutenu par votre bienveillance et par mon inébranlable foi dans la cause à laquelle j'ai voué depuis longtemps les dernières années de ma vie, et dont cet ouvrage est la « manifestation historique ». Je ressens, en le terminant, la satisfaction profonde que l'on éprouve après l'accomplissement d'un grand devoir, car je le dis, avec trop d'orgueil peut-être, cette œuvre avait à mes yeux l'importance d'un « devoir civique ».</p>
@@ -2907,7 +2907,7 @@
         <p>Annecy, 28 juillet 1857.</p>
         <p>EUGÈNE SUE.</p>
       </div>
-      <div>
+      <div type="liminal">
         <p>1 Paroles textuelles de Hoche, ainsi qu'on le verra plus bas dans l'une de ses dépêches.</p>
         <p>2 Département de la guerre, section III, 1793 à 1794. ---Correspondance.</p>
         <p>3 Voir l'Histoire de la guerre de la Péninsule, par le général Foy, page 175. --- Il tient ce propos d'un témoin auriculaire.</p>

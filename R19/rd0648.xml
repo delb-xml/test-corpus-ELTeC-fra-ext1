@@ -2,7 +2,7 @@
     <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
         <fileDesc>
             <titleStmt><title> : édition ELTeC</title><author ref="viaf:4925052">France, Anatole (-)</author></titleStmt>
-            <extent><measure unit="words">55600</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+            <extent><measure unit="words">55600</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
             <sourceDesc>
                 <bibl type="digitalSource">
           ELG, <date/>, <idno/>, .
@@ -17,7 +17,7 @@
         </fileDesc>
         <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
         <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="medium"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc>
-        <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-08-14">#cf : Initial TEI version.</change></revisionDesc>
+        <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-08-14">#cf : Initial TEI version.</change></revisionDesc>
     </teiHeader>
     <text>
         <front>
@@ -1413,7 +1413,7 @@
             </div>
         </body>
         <back>
-            <div>
+            <div type="liminal">
                 <p>[1] M. Sylvestre Bonnard ne savait pas que de très illustres naturalistes avaient fait avant lui des recherches sur les rapports des insectes et des plantes. Il ignorait les travaux de M. Darwin, ceux du docteur Hermann Müller, ainsi que les observations de sir John Lubbock. Il est à remarquer que les conclusions de M. Sylvestre Bonnard se rapprochent très sensiblement de celles de ces trois savants. Il est moins utile, mais peut-être assez intéressant, de remarquer que sir John Lubbock est, comme M. Bonnard, un archéologue adonné sur le tard aux sciences naturelles. (Note de l'éditeur.)</p>
             </div>
         </back>

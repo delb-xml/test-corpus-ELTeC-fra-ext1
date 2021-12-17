@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title>Les mystères du peuple. Histoire d'une famille de prolétaires à travers les âges, tome 6 : édition ELTeC</title><author ref="viaf:66473859">Sue, Eugène (-)</author></titleStmt>
-      <extent><measure unit="words">66453</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">66453</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource"><date>2010</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.</bibl>
         <bibl type="printSource">
@@ -15,7 +15,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="medium"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -952,7 +952,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>1 Le Roman de Rou, Rollon ou Rolf, car ces trois noms ont été indistinctement donnés à ce pirate, souche des duks de Normandie, devenus plus tard rois d'Angleterre par la conquête ; le Roman de Rou a été écrit par Robert Wace, chanoine de Bayeux, mort en 1184. Il existe plusieurs manuscrits de ce curieux ouvrage ; voir à ce sujet l'excellente édition publiée par les soins du savant Frédérik Pluquet. (Rouen, Édouard frères, 1827, 2 vol. in-8, avec gravures et fac-similés).</p>
         <p>2 Notons ici, en passant, qu'un prêtre, l'évêque de Chartres, a eu dernièrement la triste impudeur d'écrire ces lignes, qui comptent autant de mensonges que de mots :</p>
         <p>« Cherchez dans l'histoire ! Ce qui est certain, c'est que pendant quinze cents ans la France a été tranquille et florissante. Point de ces révolutions destructives et cruelles qui ravagent notre belle patrie depuis soixante ans ; cette leçon brille à vos yeux comme le soleil ! » (Mandement de l'évêque de Chartres, 1851.)</p>

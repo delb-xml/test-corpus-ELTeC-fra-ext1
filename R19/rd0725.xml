@@ -2,7 +2,7 @@
 	<teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
 		<fileDesc>
 			<titleStmt><title>Les Natchez : édition ELTeC</title><author ref="viaf:7388218">Chateaubriand, François-René de (-)</author></titleStmt>
-			<extent><measure unit="words">151015</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+			<extent><measure unit="words">151015</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
 			<sourceDesc>
 				<bibl type="digitalSource">
 					<date>2000</date>, <idno/>, <ref target="www.ebooksfrance.com"/>.
@@ -17,7 +17,7 @@
 		</fileDesc>
 		<encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
 		<profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-		<revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-07-01">sp : Initial TEI version.</change></revisionDesc>
+		<revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-07-01">sp : Initial TEI version.</change></revisionDesc>
 	</teiHeader>
 	<text>
 		<front>
@@ -2106,7 +2106,7 @@
 			</div>
 		</body>
 		<back>
-			<div type="note">
+			<div type="liminal">
 				<head>Note</head>
 				<p>J'avais renvoyé, dans la Préface des <hi>Natchez</hi>, les lecteurs à l'<hi>Histoire de la Nouvelle-France</hi>, par le père Charlevoix ; mais, en y réfléchissant, j'ai pensé qu'il était plus simple de leur éviter cette recherche, s'ils avaient envie de la faire, en insérant ici quelques pages de Charlevoix.</p>
 				<p>Le premier extrait de cet auteur renferme la description du pays et des moeurs des Natchez. On verra que je n'ai été sous ce rapport qu'historien fidèle ; Charlevoix n'a pas été d'ailleurs le seul historien et le seul voyageur que j'aie consulté.</p>
@@ -2116,7 +2116,7 @@
 				<p>Je n'ai point, au reste, exagéré l'état de civilisation des Natchez ; cette civilisation était très avancée chez ce peuple. J'ai seulement donné le nom d'édile à un Natchez qui remplissait les fonctions attribuées à l'édile chez les Romains. Il m'eût été difficile de conserver dans un <hi>poème</hi> le titre de <hi>chef de la farine</hi>, que l'édile portait chez la nation du Soleil.</p>
 				<p>Ce chef de la farine, au moment de la conspiration contre les Français, était un homme qui avait une partie des vices, de la capacité et du caractère que j'ai attribués à Ondouré ! on trouvera dans mon <hi>Voyage en Amérique</hi> la description générale des moeurs des sauvages de l'Amérique septentrionale. Elle servira de commentaire aux Natchez : je dois dire seulement ici que quelques-uns des traits que j'ai ajoutés à la peinture des usages des Esquimaux sont empruntés aux derniers Voyages du capitaine Parry et du capitaine Lyon.</p>
 			</div>
-			<div type="group">
+			<div type="liminal">
 				<head>Description du pays Natchez</head>
 				<div type="chapter">
 					<head type="sub">Premier extrait de Charlevoix</head>

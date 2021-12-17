@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title> : édition ELTeC</title><author ref="viaf:89053456">Allais, Alphonse (-)</author></titleStmt>
-      <extent><measure unit="words">30658</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">30658</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           Bibliothèque électronique du Québec, <date/>, <idno/>, <ref target="http://beq.ebooksgratuits.com"/>.
@@ -17,7 +17,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-07-17">#cf : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-07-17">#cf : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -2133,7 +2133,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>1  Ces quelques lignes sont écrites spécialement pour M. Tristan Bernard; néanmoins les autres lecteurs peuvent en prendre connaissance, elles n'ont absolument rien de confidentiel.</p>
         <p>1  Au lecteur peu versé dans l'art de la géographie, apprenons qu'une des Antilles : l'île Saint-Thomas, est possession danoise; le planteur en question appartenait, sans doute, à cette colonie. (<hi>Note de l'auteur.</hi>)</p>
         <p>1  Je ne devrais peut-être pas vous le dire maintenant, mais, tant pis, c'est plus fort que moi. Sachez donc qu'Arabella se mariera vers la fin de ce roman et qu'elle sera très heureuse.</p>

@@ -2,7 +2,7 @@
 	<teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
 		<fileDesc>
 			<titleStmt><title>Le Diable amoureux : édition ELTeC</title><author ref="viaf:8698">Cazotte, Jacques (-)</author></titleStmt>
-			<extent><measure unit="words">23708</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+			<extent><measure unit="words">23708</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
 			<sourceDesc>
 				<bibl type="digitalSource">
          Gutenberg <date>2007</date>, <idno>23289</idno>, .
@@ -17,7 +17,7 @@
 		</fileDesc>
 		<encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
 		<profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-		<revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-10-14">sp : Initial TEI version.</change></revisionDesc>
+		<revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-10-14">sp : Initial TEI version.</change></revisionDesc>
 	</teiHeader>
 	<text>
 		<body>
@@ -544,7 +544,7 @@
 			</div>
 		</body>
 		<back>
-			<div>
+			<div type="liminal">
 				<head>épilogue du diable amoureux.</head>
 				<p>Lorsque la première édition du <hi>Diable Amoureux</hi> parut, les lecteurs en trouvèrent le dénoûment trop brusque. Le plus grand nombre eût désiré que le héros tombât dans un piége couvert d'assez de fleurs pour qu'elles pussent lui sauver le désagrément de la chute. Enfin l'imagination leur semblait avoir abandonné l'auteur parvenu aux trois quarts de sa petite carrière: alors la vanité qui ne veut rien perdre, suggéra à celui-ci, pour se venger du reproche de stérilité et justifier son propre goût, de réciter aux personnes de sa connaissance le roman en entier tel qu'il l'avait conçu dans le premier feu. Alvare y devenait la dupe de son ennemi; et l'ouvrage alors, divisé en deux parties, se terminait dans la première par cette fâcheuse catastrophe, dont la seconde partie développait les suites; d'obsédé qu'il était, Alvare devenu possédé, n'était plus qu'un instrument entre les mains du diable, dont celui-ci se servait pour mettre le désordre partout. Le canevas de cette seconde partie, en donnant beaucoup d'essor à l'imagination, ouvrait la carrière la plus étendue à la critique, au sarcasme, à la licence.</p>
 				<p>Sur ce récit, les avis se partagèrent: les uns prétendirent qu'on devait conduire Alvare jusqu'à la chute inclusivement, et s'arrêter là; les autres, qu'on ne devait pas en retrancher les conséquences.</p>

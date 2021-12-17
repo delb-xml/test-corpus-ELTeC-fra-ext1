@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title>Les mystères du peuple. Histoire d'une famille de prolétaires à travers les âges, tome 2 : édition ELTeC</title><author ref="viaf:66473859">Sue, Eugène (-)</author></titleStmt>
-      <extent><measure unit="words">92617</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">92617</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource"><date>2009</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.</bibl>
         <bibl type="printSource">
@@ -15,7 +15,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="medium"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -1956,7 +1956,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>1 À peu de distance de la ville de Saint-Nazaire, qui existe aujourd'hui. -- Le pays ainsi dévasté par l'incendie comprenait presque la totalité des départements du Morbihan et de la Loire-Inférieure de nos jours.</p>
         <p>2 On a justement admiré le patriotisme des Russes incendiant Moskow pour chasser et affamer l'armée française, mais il ne s'agissait que d'une seule ville ; combien plus admirable a été l'héroïque patriotisme de nos pères ! car, à cette époque, pour combattre l'invasion romaine, non-seulement la Bretagne, mais presque un tiers de la Gaule, a été livré à l'incendie par ses habitants.</p>
         <p>Mais laissons parler César :</p>

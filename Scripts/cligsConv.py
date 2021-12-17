@@ -6,9 +6,9 @@ import sys
 
 repoRoot='/home/lou/Public/ELTeC-fra-ext/'
 schemaDir='/home/lou/Public/Schemas/'
-inDir=repoRoot+'/home/lou/Public/romandixneuf/master/'
-outDir=repoRoot+'/R19/'
-cligsConv=repoRoot+'/Scripts/cligstoeltec.xsl'
+inDir='/home/lou/Public/romandixneuf/master/'
+outDir=repoRoot+'R19/'
+cligsConv=repoRoot+'Scripts/cligstoeltec.xsl'
 
 print("Converting from "+inDir+' to '+outDir)
 os.chdir(inDir)

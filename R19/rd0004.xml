@@ -2,7 +2,7 @@
 	<teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
 		<fileDesc>
 			<titleStmt><title>La Peau de chagrin : édition ELTeC</title><author ref="viaf:29529595">Balzac, Honoré de (-)</author></titleStmt>
-			<extent><measure unit="words">88812</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+			<extent><measure unit="words">88812</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
 			<sourceDesc>
 				<bibl type="digitalSource">
 					<date/>, <idno>1114</idno>, <ref target="http://beq.ebooksgratuits.com/balzac/index.htm"/>.
@@ -17,7 +17,7 @@
 		</fileDesc>
 		<encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
 		<profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="medium"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-		<revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-08-27">sp : Initial TEI version.</change></revisionDesc>
+		<revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-08-27">sp : Initial TEI version.</change></revisionDesc>
 	</teiHeader>
 	<text>
 		<front>
@@ -952,7 +952,7 @@
 			</div>
 		</body>
 		<back>
-			<div>
+			<div type="liminal">
 				<head>Épilogue</head>
 				<p>Et que devint Pauline ?</p>
 				<p>– Ah ! Pauline, bien. Êtes-vous quelquefois resté par une douce soirée d’hiver devant votre foyer domestique, voluptueusement livré à des souvenirs d’amour ou de jeunesse en contemplant les rayures produites par le feu sur un morceau de chêne ? Ici la combustion dessine les cases rouges d’un damier, là elle miroite des velours ; de petites flammes bleues courent,. bondissent et jouent sur le fond ardent du brasier. Vient un peintre inconnu qui se sert de cette flamme ; par un artifice unique, il trace au sein de ces flamboyantes teintes violettes ou empourprées une figure supernaturelle et d’une délicatesse inouïe, phénomène fugitif que le hasard ne recommencera jamais : c’est une femme aux cheveux emportés par le vent, et dont le profil respire une passion délicieuse : du feu dans le feu ! elle sourit, elle expire ; vous ne la reverrez plus. Adieu fleur de la flamme, adieu principe incomplet, inattendu, venu trop tôt ou trop tard pour être quelque beau diamant.</p>

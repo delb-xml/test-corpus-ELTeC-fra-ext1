@@ -2,7 +2,7 @@
     <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
         <fileDesc>
             <titleStmt><title>Le Cavalier Fortune : édition ELTeC</title><author ref="viaf:17222447">Féval, Paul H.C. (père) (-)</author></titleStmt>
-            <extent><measure unit="words">128790</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+            <extent><measure unit="words">128790</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
             <sourceDesc>
                 <bibl type="digitalSource">Ebooks libres et gratuits, <date/>, <idno/>, .</bibl>
                 <bibl type="printSource"><date/>, <idno/>, .</bibl>
@@ -11,7 +11,7 @@
         </fileDesc>
         <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
         <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/></textDesc></profileDesc>
-        <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-08-12">#cf : Initial TEI version.</change></revisionDesc>
+        <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-08-12">#cf : Initial TEI version.</change></revisionDesc>
     </teiHeader>
     <text>
         <front>
@@ -5799,10 +5799,10 @@
             </div>
         </body>
         <back>
-            <div>
+            <div type="liminal">
                 <p>FIN</p>
             </div>
-            <div type="note">
+            <div type="liminal">
                 <p>[1] Expression incertaine, impossible à vérifier en l'absence de l'image de scan de cette page. [Note du correcteur]</p>
                 <p>[2]<hi> Avoir une épaisse couche de fard rouge sur les joues. </hi>Mon cher, reprit le comte, vous voyez que j'ai un pied de rouge sur les joues, ménagez-moi* (FEUILLET, J. de Trécœur, 1872, p. 62).</p>
                 <p>[3] Vin rouge, surtout vin de Bordeaux.</p>

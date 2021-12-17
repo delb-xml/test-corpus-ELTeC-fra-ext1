@@ -2,7 +2,7 @@
 	<teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
 		<fileDesc>
 			<titleStmt><title>Le cahier rouge : édition ELTeC</title><author ref="viaf:45095766">Constant, Benjamin (-)</author></titleStmt>
-			<extent><measure unit="words">23313</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+			<extent><measure unit="words">23313</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
 			<sourceDesc>
 				<bibl type="digitalSource">
 					<date>2013</date>, <idno/>, <ref target="http://www.ebooks-bnr.com/"/>.
@@ -17,7 +17,7 @@
 		</fileDesc>
 		<encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
 		<profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/></textDesc></profileDesc>
-		<revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-07-26">sp : Initial TEI version.</change></revisionDesc>
+		<revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-07-26">sp : Initial TEI version.</change></revisionDesc>
 	</teiHeader>
 	<text>
 		<front>
@@ -181,7 +181,7 @@
 			</div>
 		</body>
 		<back>
-			<div>
+			<div type="liminal">
 				<note>
 					<p>i APPENDICE I. NOTE SUR LA FAMILLE DE CHANDIEU.</p>
 					<p>Les Chandieu étaient du Dauphiné. Antoine, seigneur de la Roche-Chandieu passa à la réforme et fut pasteur zélé. À la Saint-Barthélemy il s’enfuit à Genève. En 1585 Henri IV l’appela auprès de lui, et nous le voyons à la bataille de Coutras remplir les fonctions d’aumônier de ce prince. Il eut treize enfants et mourut à Genève. La plupart de ses fils restèrent en France ; un seul se fixa à Lausanne. Parmi les descendants de ce dernier nous rencontrons Benjamin, capitaine au service de Hollande dans le régiment bernois Villars-Chandieu qui appartenait à son père. Benjamin eut plusieurs filles, dont une, Henriette, épousa Juste-Louis Arnold de Constant. Elle mourut en mettant au monde, le 25 octobre 1767 un fils qui fut Benjamin Constant.</p>

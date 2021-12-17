@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title>Histoire d'un homme du peuple : édition ELTeC</title><author ref="viaf:312339246">Erckmann, Émile (-)</author></titleStmt>
-      <extent><measure unit="words">79261</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">79261</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource"><date>2008</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.</bibl>
         <bibl type="printSource">
@@ -15,7 +15,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="medium"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -2303,7 +2303,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <head>Les Bohémiens sous la Révolution</head>
         <p>« Puisque tu veux savoir pourquoi nous avons quitté la France, me dit le vieux bohémien Bockes [2], rappelle-toi d'abord la grande caverne du Harberg. Elle est à mi-côte, sous une roche couverte de bruyères, où passe le sentier de Dagsbourg. On l'appelle maintenant le Trou-de-l'Ermite, parce qu'un vieil ermite y demeure. Mais bien des années avant, quand les seigneurs avaient encore des châteaux en Alsace et dans les Vosges, nos gens vivaient dans ce trou de père en fils. Personne ne venait nous troubler, au contraire, on nous faisait du bien ; nos femmes et nos filles allaient dire la bonne aventure jusqu'au fond de la Lorraine, nos hommes jouaient de la musique ; les tout vieux et les toutes vieilles restaient seuls au Harberg, couchés sur des tas de feuilles avec les petits enfants.</p>
         <p>« Je te dis, Christian, que nous étions une fourmilière, on ne pouvait pas nous compter. Souvent il rentrait trois et quatre troupes par jour ; le pain, le vin, le lard, le fromage ne manquaient pas, tout venait en abondance.</p>
@@ -2346,7 +2346,7 @@
         <p>« Et le même jour nous partîmes pour la Forêt-Noire.</p>
         <p>« Voilà cinquante ans que nous roulons dans ce pays, Kleinmichel et moi. Les Allemands nous laissent bien tranquilles ! Pourvu qu'on leur joue des valses et des hopser pendant qu'ils boivent des chopes, ils sont heureux et ne demandent pas autre chose. -- C'est un bon peuple ! »</p>
       </div>
-      <div>
+      <div type="liminal">
         <p>[1] Cette promesse de donner plus tard le complément de ce récit en décrivant les journées de juin ne devait pas être tenue, Erckmann ayant renoncé, par patriotisme, à écrire l'histoire de cette guerre civile, « pour ne pas réveiller les haines du peuple contre l'armée et la bourgeoisie. » Altaïr</p>
         <p>[2] Bacchus</p>
         <p>[3] Chrétien</p>

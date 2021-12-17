@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title>La corde du pendu (Rocambole) : édition ELTeC</title><author ref="viaf:17228199">Ponson du Terrail, Pierre Alexis (-)</author></titleStmt>
-      <extent><measure unit="words">126214</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">126214</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">Ebooks libres et gratuits, <date>2011</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.</bibl>
         <bibl type="printSource">Arthème Fayard, mars 1910, le Livre populaire n°19, XVe aventure de Rocambole publiée dans cette collection.<date>1910</date>, <idno/>, .</bibl>
@@ -11,7 +11,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-07-14">#cf : Revised teiHeader.</change><change when="2014-08-25">#cf : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-07-14">#cf : Revised teiHeader.</change><change when="2014-08-25">#cf : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -11098,7 +11098,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>FIN(1)</p>
         <p>1 Cette saga, qui aurait pu ne jamais finir, s'arrête brusquement, le 18 juillet 1870, en pleine action, alors que tout laissait présager une suite. En effet, nous sommes en pleine guerre, et la France est dans une situation critique. Ponson du Terrail s'enfuit vers Orléans où, avec quelques amis, il décide de faire la guérilla aux envahisseurs. Recherché par les Allemands qui brûlent sa maison, il fuit vers Bordeaux où, à l'âge de 42 ans, il meurt de mort naturelle, le 10 janvier 1871.</p>
       </div>

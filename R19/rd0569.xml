@@ -2,7 +2,7 @@
     <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
         <fileDesc>
             <titleStmt><title>La cousine Bette : édition ELTeC</title><author ref="viaf:29529595">Balzac, Honoré de (-)</author></titleStmt>
-            <extent><measure unit="words">151572</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+            <extent><measure unit="words">151572</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
             <sourceDesc>
                 <bibl type="digitalSource">
           Éfélé, <date>2014</date>, <idno>000065</idno>, <ref target="http://efele.net/ebooks/livres/000065"/>.</bibl>
@@ -15,7 +15,7 @@
         </fileDesc>
         <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
         <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-        <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-08-07"># : Initial TEI version.</change></revisionDesc>
+        <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-08-07"># : Initial TEI version.</change></revisionDesc>
     </teiHeader>
     <text>
         <front>
@@ -3377,7 +3377,7 @@
             </div>
         </body>
         <back>
-            <div>
+            <div type="liminal">
                 <p/>
             </div>
         </back>

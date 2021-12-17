@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title> : édition ELTeC</title><author ref="viaf:46766944">Sand, George (-)</author></titleStmt>
-      <extent><measure unit="words">122059</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">122059</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           Bibliothèque électronique du Québec, <date/>, <idno/>, <ref target="http://beq.ebooksgratuits.com"/>.
@@ -17,7 +17,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-07-17">#cf : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-07-17">#cf : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -2084,20 +2084,20 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>FIN DE CONSUELO</p>
       </div>
-      <div>
+      <div type="liminal">
         <head>Nota</head>
         <p>Ceux de nos lecteurs qui se sont par trop fatigués à suivre Consuelo parmi tant de périls et d'aventures, peuvent maintenant se reposer. Ceux, moins nombreux sans doute, qui se sentent encore quelque courage, apprendront dans un prochain roman<hi>*(1)</hi>*, la suite de ses pérégrinations, et ce qui advint du comte Albert après sa mort.</p>
       </div>
-      <div>
+      <div type="liminal">
         <p>1  Non, Bérénice, tu n'ouvres pas ici franchement ton cœur.</p>
         <p>2  Ce que tu sais de mes aventures te paraît-il donc peu de chose?</p>
         <p>1  Et cependant, comme tout a sa beauté pour l'œil qui sait voir, ces limbes théâtrales ont une beauté bien plus émouvante pour l'imagination que tous les prétendus prestiges de la scène éclairée et ordonnée à l'heure du spectacle. Je me suis demandé souvent en quoi consistait cette beauté, et comment il me serait possible de la décrire, si je voulais en faire passer le secret dans l'âme d'un autre. Quoi! sans couleurs, sans formes, sans ordre et sans clarté, les objets extérieurs peuvent-ils, me dira-t-on, revêtir un aspect qui parle aux yeux et à l'esprit? Un peintre seul pourra me répondre : Oui, je le comprends. Il se rappellera le <hi>Philosophe en méditation</hi> de Rembrandt : cette grande chambre perdue dans l'ombre, ces escaliers sans fin, qui tournent on ne sait comment; ces lueurs vagues qui s'allument et s'éteignent, on ne sait pourquoi, sur les divers plans du tableau; toute cette scène indécise et nette en même temps, cette couleur puissante répandue sur un sujet qui, en somme, n'est peint qu'avec du brun clair et du brun sombre; cette magie du clair-obscur, ce jeu de la lumière ménagée sur les objets les plus insignifiants, sur une chaise, sur une cruche, sur un vase de cuivre; et voilà que ces objets, qui ne méritent pas d'être regardés, et encore moins d'être peints, deviennent si intéressants, si beaux à leur manière, que vous ne pouvez pas en détacher vos yeux. Ils ont reçu la vie, ils existent et sont dignes d'exister, parce que l'artiste les a touchés de sa baguette, parce qu'il y a fixé une parcelle du soleil, parce que entre eux et lui il a su étendre un voile transparent, mystérieux, l'air que nous voyons, que nous respirons, et dans lequel nous croyons entrer en nous enfonçant par l'imagination dans la profondeur de sa toile. Eh bien, si nous retrouvons dans la réalité un de ses tableaux, fût-il composé d'objets plus méprisables encore, d'ais brisés, de haillons flétris, de murailles enfumées; si une pâle lumière y jette son prestige avec précaution, si le clair-obscur y déploie cet art essentiel qui est dans l'effet, dans la rencontre, dans l'harmonie de toutes les choses existantes sans que l'homme ait besoin de l'y mettre, l'homme sait l'y trouver, et il le goûte, il l'admire, il en jouit comme d'une conquête qu'il vient de faire.</p>
         <p>Il est à peu près impossible d'expliquer avec des paroles ces mystères que le coup de pinceau d'un grand maître, traduit intelligiblement à tous les yeux. En voyant les intérieurs de Rembrandt, de Teniers, de Gérard Dow, l'oeil le plus vulgaire se rappellera la réalité qui pourtant ne l'avait jamais frappé poétiquement. Pour voir poétiquement cette réalité et en faire, par la pensée, un tableau de Rembrandt, il ne faut qu'être doué du sens pittoresque commun à beaucoup d'organisations. Mais pour décrire et faire passer ce tableau, par le discours, dans l'esprit d'autrui, il faudrait une puissance si ingénieuse, qu'en l'essayant, je déclare que je cède à une fantaisie sans aucun espoir de réussite. Le génie doué de cette puissance, et qui l'exprime en vers (chose bien plus prodigieuse à tenter!) n'a pas toujours réussi. Et cependant je doute que dans notre siècle aucun artiste littéraire puisse approcher des résultats qu'il a obtenus en ce genre. Relisez une pièce de vers qui s'appelle les <hi>Puits de l'Inde;</hi> ce sera un chef-d'oeuvre, ou une orgie d'imagination, selon que vous aurez on non des facultés sympathiques à celles du poète. Quant à moi, j'avoue que j'en ai été horriblement choqué à la lecture. Je ne pouvais approuver ce désordre et cette débauche de description. Puis, quand j'eus fermé le livre, je ne pouvais plus voir autre chose dans mon cerveau que ces puits, ces souterrains, ces escaliers, ces gouffres par où le poète m'avait fait passer. Je les voyais en rêve, je les voyais tout éveillé. Je n'en pouvais plus sortir, j'y étais enterré vivant. J'étais subjugué, et je ne voulus pas relire ce morceau, de crainte de trouver qu'un si grand peintre, comme un si grand poète, n'était pas un écrivain sans défaut. Cependant je retins par coeur pendant longtemps les huit derniers vers, qui, dans tous les temps et pour tous les goûts, seront un trait profond, sublime, et sans reproche, qu'on l'entende avec le coeur, avec l'oreille ou l'esprit.</p>
       </div>
-      <div>
+      <div type="liminal">
         <p>1  Étant descendu dans une cave au pillage d'une ville de la Bohème et dans l'espérance de découvrir le premier des tonnes d'or dont on lui avait signalé l'existence, il avait approché précipitamment une lumière d'un de ces tonneaux précieux; mais c'était de la poudre qu'il contenait. L'explosion avait fait crouler sur lui une partie de la voûte, et on l'avait retiré des décombres, mourant, le corps sillonné d'énormes brûlures, le visage couvert de plaies profondes et indélébiles.</p>
         <p>1  On va commencer dans cinq minutes.</p>
         <p>1  La vérité historique exige que nous disions aussi par quelles bravades Trenck provoqua ce traitement inhumain. Dès le premier jour de son arrivée à Vienne, il avait été mis aux arrêts à son domicile par ordre impérial. Il n'en avait pas moins été se montrer à l'Opéra le soir même, et dans un entracte il avait voulu jeter le comte Gossau dans le parterre.</p>

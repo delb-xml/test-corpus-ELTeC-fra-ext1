@@ -2,7 +2,7 @@
 	<teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
 		<fileDesc>
 			<titleStmt><title>Isis : édition ELTeC</title><author ref="viaf:88998504">l'Isle Adam, Auguste Villiers de (-)</author></titleStmt>
-			<extent><measure unit="words">37446</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+			<extent><measure unit="words">37446</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
 			<sourceDesc>
 				<bibl type="digitalSource">
 					<date>2011</date>, <idno>37138</idno>, <ref target="https://www.gutenberg.org/ebooks/37138"/>.
@@ -17,7 +17,7 @@
 		</fileDesc>
 		<encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
 		<profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/></textDesc></profileDesc>
-		<revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-09-23">sp : Initial TEI version.</change></revisionDesc>
+		<revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-09-23">sp : Initial TEI version.</change></revisionDesc>
 	</teiHeader>
 	<text>
 		<front>
@@ -761,7 +761,7 @@
 			</div>
 		</body>
 		<back>
-			<div>
+			<div type="liminal">
 				<head>NOTES</head>
 				<note>
 					<p>[1] Par exemple, il serait permis de rappeler, entre tant d'autres, la découverte de la force vitale centralisée dans tel nœud de notre moëlle, tel mode d'activité de la pensée localisé dans telle couche de pulpe cérébrale [de manière que l'on ôte ou que l'on remet, à volonté, la faculté de discerner, de vouloir, de souffrir, etc., dans le cerveau d'un animal en enlevant ou en replaçant telle tranche de sa cervelle, comme cela se pratique aujourd'hui dans nos Académies de médecine]; la découverte plus ancienne de l'indépendance de l'irritabilité;—la découverte de l'identité des métaux soléliens et des nôtres [découverte obtenue, comme on le sait, par l'analyse chimique des rayons saisis dans la chambre obscure];—la découverte de la sensibilité de l'aimant [par laquelle le <hi>geste</hi> de l'être vivant se trouve en contact immédiat, cette fois, avec la physique]; la découverte de la reproduction des espèces par les forces créatrices de la nature [c'est-à-dire par les principes métalliques et animés contenus dans un globule de sang, lequel, jeté dans un vase rempli d'eau préparée, y fait germer des centaines d'animaux qui s'y développent, deviennent propres à notre alimentation et sont pourvus d'organes aussi parfaitement emboîtés que ceux obtenus par la génération ovarienne]; la découverte de Neptune dans le ciel [découverte qui est venue confirmer à jamais l'astronomie, comme la découverte de l'Amérique vint confirmer la science physique]; la découverte de la fusion des os d'un organisme dans un autre [grâce à laquelle, en chirurgie, on peut substituer, maintenant, l'os d'un animal à l'os humain d'une si parfaite manière, que, au bout de quelque temps, le premier remplace absolument le second];—etc., etc.</p>

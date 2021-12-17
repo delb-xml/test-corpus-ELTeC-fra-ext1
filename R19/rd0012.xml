@@ -2,7 +2,7 @@
 	<teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
 		<fileDesc>
 			<titleStmt><title>La fée d’Auteuil : édition ELTeC</title><author ref="viaf:17228199">Alexis Ponson du Terrail, Pierre (-)</author></titleStmt>
-			<extent><measure unit="words">61344</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+			<extent><measure unit="words">61344</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
 			<sourceDesc>
 				<bibl type="digitalSource">
 					<date/>, <idno>1173</idno>, <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm"/>.
@@ -17,7 +17,7 @@
 		</fileDesc>
 		<encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
 		<profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="medium"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/></textDesc></profileDesc>
-		<revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-09-14">sp : Initial TEI version.</change></revisionDesc>
+		<revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-09-14">sp : Initial TEI version.</change></revisionDesc>
 	</teiHeader>
 	<text>
 		<body>
@@ -3797,7 +3797,7 @@
 			</div>
 		</body>
 		<back>
-			<div>
+			<div type="liminal">
 				<head>Épilogue</head>
 				<p>Ceci se passait au commencement du mois de mai dernier.</p>
 				<p>M. de Valserres, sa fille, son gendre et son petit-fils, un bel enfant de deux ans et demi, qui a les cheveux blonds comme un chérubin, étaient assis un soir à l’heure du crépuscule sous un berceau de jasmins, de clématites et de chèvrefeuilles, dans le jardin de la villa d’Auteuil.</p>

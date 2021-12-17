@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title> : édition ELTeC</title><author>,  (-)</author></titleStmt>
-      <extent><measure unit="words">189496</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">189496</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           Bibliothèque électronique du Québec, <date/>, <idno/>, <ref target="http://beq.ebooksgratuits.com"/>.
@@ -17,7 +17,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-07-17">#cf : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-07-17">#cf : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -8811,7 +8811,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>1  Ce mot qui n'a pas d'équivalent en français, est dans la langue espagnole la plus haute expression de la beauté physique chez la femme.</p>
         <p>1  Des raisons de haute convenance nous ont obligé de changer les noms et les portraits des personnages de cette histoire qui, pour la plupart, existent encore. Mais nous garantissons l'exactitude des faits que nous rapportons.</p>
         <p>1  Ce mot vient du verbe <hi>toquin, </hi>qui veut dire juger, commander.</p>
@@ -8822,7 +8822,7 @@
         <p>On met dans une coupe une cuillerée à café d'herbe du Paraguay, à laquelle on ajoute un morceau de sucre, qu'on laisse sur le feu jusqu'à ce qu'il soit un peu brûlé, on exprime quelques gouttes de jus de citron, on jette ensuite de la cannelle et un clou de girofle, on remplit après cela la coupe d'eau bouillante, et on y introduit un tube d'argent de la grosseur d'une plume, percé de petits trous à sa partie inférieure ; au moyen de ce procédé, on aspire le <hi>maté, </hi>au risque, bien entendu, de s'échauder horriblement la bouche, ce qui ne manque pas d'arriver aux étrangers, les deux ou trois premières fois qu'ils en prennent, à la grande joie des habitants du pays.</p>
         <p>Le maté est tellement passé dans les mœurs chiliennes, qu'il est dans cette contrée ce qu'est le café en Orient, c'est-à-dire qu'on en prend non seulement après chaque repas, ainsi que nous l'avons dit, mais encore à chaque visiteur qui arrive dans la maison, ou plus exactement toute la journée. Dans les cérémonies d'étiquette, un seul tube sert pour toutes les personnes réunies.</p>
       </div>
-      <div>
+      <div type="liminal">
         <p>1 <hi> Les Trappeurs de l'Arkansas, </hi>1* *vol. in-12. Amyot, éditeur.</p>
         <p>1  Voir les <hi>Trappeurs de l'Arkansas, </hi>1 vol, in-12, chez Amyot, éditeur.</p>
         <p>1  Cette plaine a été ainsi nommée des vastes propriétés qu'y possédèrent longtemps les descendants de Tupac-Amara, le dernier des Incas du Pérou, qui à leur nom avaient ajouté celui de Condorkanki, mot qui signifie plaine des Condors. Le Condor était l'oiseau sacré des Incas.</p>

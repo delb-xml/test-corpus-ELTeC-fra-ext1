@@ -2,7 +2,7 @@
   <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
     <fileDesc>
       <titleStmt><title>Les mystères du peuple. Histoire d'une famille de prolétaires à travers les âges, tome 13 : édition ELTeC</title><author ref="viaf:66473859">Sue, Eugène (-)</author></titleStmt>
-      <extent><measure unit="words">107696</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-16</date></p></publicationStmt>
+      <extent><measure unit="words">107696</measure></extent><publicationStmt><p>Unpublished draft ELTeC conversion<date>2021-12-17</date></p></publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource"><date>2011</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.</bibl>
         <bibl type="printSource">
@@ -15,7 +15,7 @@
     </fileDesc>
     <encodingDesc n="eltec-1"><p>Downcoded from CLIGS</p></encodingDesc>
     <profileDesc><langUsage><language ident="fra">French</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-    <revisionDesc><change when="2021-12-16">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
+    <revisionDesc><change when="2021-12-17">Converted by cligstoeltec script</change><change when="2015-06-02"># : Initial TEI version.</change></revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -1990,7 +1990,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>1 Nous engageons nos lecteurs à consulter à ce sujet le hardi et beau livre de M. LENFREY : La Philosophie et l'Église au dix-huitième siècle. Jamais la saine raison n'a été servie par plus de verve, plus de savoir et plus de consciencieuse indignation contre le fanatisme.</p>
         <p>2 Voir De la Démocratie chez les prédicateurs de la Ligue, par Charles Labitte, Paris, 1851, pages 112-162.</p>
         <p>3 Revue rétrospective, t. I, 2e série.</p>
