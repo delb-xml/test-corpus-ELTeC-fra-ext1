@@ -1,4 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA0043" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02503" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +25,7 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           <date>2003</date>
           ,
           <idno></idno>
@@ -28,7 +33,7 @@
           <ref target="http://www.ebooksgratuits.com/"></ref>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date>source</date>
         </bibl>
         <bibl type="firstEdition">
@@ -46,7 +51,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"></reprintCount>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
       </textDesc>
     </profileDesc>
@@ -57,7 +62,7 @@
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="liminal">
         <p>PRÉFACE DE PLUMKETT, AMI DE LOTI</p>
         <p>Dans tout roman bien conduit, une description du héros est de rigueur. Mais ce livre n'est point un roman, ou, du moins, c'en est un qui n'a pas été plus conduit que la vie de son héros. Et puis décrire au public indifférent ce Loti que nous aimions n'est pas chose aisée, et les plus habiles pourraient bien s'y perdre.</p>
         <p>Pour son portrait physique, lecteur, allez à Musset : ouvrez « Namouna, conte oriental » et lisez :</p>
@@ -73,7 +78,7 @@
       </div>
     </front>
     <body>
-      <div type="part">
+      <div type="group">
         <p>
           <label>1</label>
         </p>
@@ -315,7 +320,7 @@
           <p>Et puis la tache grise disparaît, pour toujours sans doute, derrière les hautes terres du cap Kara-Bournou. Quatre grands sommets mythologiques s'élèvent au-dessus de la côte déjà lointaine de Macédoine : Olympe, Athos, Pélion et Ossa !</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>2</label>
         </p>
@@ -609,7 +614,7 @@
           <p>Dès que le ciel parut blanchir, je lui donnai l'ordre de disparaître, avec le conseil de ne point repasser le seuil de ma porte, et de ne se retrouver même jamais nulle part sur mon chemin.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>3</label>
         </p>
@@ -1434,7 +1439,7 @@
           <p>« Ne fais pas de prière avec moi, ô prêtre ; cela a son propre temps. »</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>4</label>
         </p>
@@ -1845,7 +1850,7 @@
           <p>Le fait est que ce petit oiseau était drôle de se trouver si heureux de vivre, et d'être si gai au milieu de ce site funèbre !...</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>5</label>
         </p>

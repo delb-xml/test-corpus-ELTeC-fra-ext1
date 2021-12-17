@@ -1,4 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA0086" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA04003" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +25,7 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Ebooks libres et gratuits,
           <date>2004</date>
           ,
@@ -29,7 +34,7 @@
           <ref target="http://www.ebooksgratuits.com/"></ref>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date></date>
         </bibl>
         <bibl type="firstEdition">
@@ -47,7 +52,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"></reprintCount>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
       </textDesc>
     </profileDesc>
@@ -58,7 +63,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="part">
+      <div type="group">
         <p>
           <label>PREMIÈRE PARTIE -- LES ANGLAIS AU PÔLE NORD</label>
         </p>
@@ -2104,7 +2109,7 @@
           <p>Et cependant, la situation était terrible pour ces quatre hommes et ce mourant, abandonnés sans ressource, perdus, seuls, sous le quatre-vingtième degré de latitude, au plus profond des régions polaires !</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>SECONDE PARTIE -- LE DÉSERT DE GLACE.</label>
         </p>

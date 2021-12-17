@@ -1,4 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA1021" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01903" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,7 +26,7 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Ebooks libres et gratuits,
           <date>2012</date>
           ,
@@ -30,7 +35,7 @@
           <ref target="http://www.ebooksgratuits.com/"></ref>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date></date>
           ,
           <idno></idno>
@@ -58,7 +63,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity> <!-- worldcat.py error -->
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"></reprintCount> <!-- worldcat.py error -->
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
       </textDesc>
     </profileDesc>
@@ -70,7 +75,7 @@
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="liminal">
         <p>Fidèle interprète des sentiments de mon regretté mari, j'offre cet ouvrage à celui dont il s'honorait d'être l'ami et dont il admirait le talent.</p>
         <p>Veuve Émile GABORIAU.</p>
         <p>16 Janvier 1874</p>
@@ -78,7 +83,7 @@
       </div>
     </front>
     <body>
-      <div type="part">
+      <div type="group">
         <div type="chapter">
           <head>I</head>
           <p>Vainement on chercherait dans Paris une rue plus paisible que la rue Saint-Gilles, au Marais, à deux pas de la place Royale.</p>
@@ -3949,7 +3954,7 @@
           <p>Et elle sortit.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <div type="chapter">
           <head>I</head>
           <p>

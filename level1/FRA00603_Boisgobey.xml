@@ -1,4 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA1003" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00603" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +25,7 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           <date></date>
           ,
           <idno></idno>
@@ -28,7 +33,7 @@
           <ref target="#"></ref>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date></date>
           ,
           <idno></idno>
@@ -56,7 +61,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"></reprintCount>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
       </textDesc>
     </profileDesc>
@@ -68,7 +73,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="part">
+      <div type="group">
         <p>
           <label>PREMIÈRE PARTIE</label>
         </p>
@@ -2091,10 +2096,8 @@
           <p>Laissant là Solange, qui se flattait de l'avoir reconquis, il fila au pas accéléré, sans regarder derrière lui.</p>
         </div>
       </div>
-      <div type="part">
-        <p>
-          <label>DEUXIÈME PARTIE</label>
-        </p>
+      <div type="group">
+          <head>DEUXIÈME PARTIE</head>
         <div type="chapter">
           <head>I</head>
           <p>Hervé de Scaër venait de brûler ses vaisseaux. Son mariage était irrévocablement rompu et la guerre allait commencer. Mlle de Bernage ne pouvait pas manquer de passer à l'ennemi, et Hervé ne pouvait pas mieux faire que de suivre le conseil donné par la marquise : chercher des preuves avant d'agir, et d'abord savoir ce qu'était devenu Alain.</p>

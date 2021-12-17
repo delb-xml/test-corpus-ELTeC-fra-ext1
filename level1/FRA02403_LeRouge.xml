@@ -1,4 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA0384" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02403" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +25,7 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Bibliothèque électronique du Québec,
           <date></date>
           ,
@@ -29,7 +34,7 @@
           <ref target="http://beq.ebooksgratuits.com"></ref>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date></date>
           ,
           <idno></idno>
@@ -57,7 +62,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"></reprintCount>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
       </textDesc>
     </profileDesc>
@@ -68,7 +73,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="part">
+      <div type="group">
         <p>
           <label>[Première partie -- ] Les Invisibles</label>
         </p>
@@ -1159,7 +1164,7 @@
           <p>Le Noir, mal convaincu, hochait la tête mélancoliquement, si épouvanté que, sans son attachement pour miss Alberte et pour le naturaliste, il se fût enfui, il eût regagné sans hésiter les lointaines oasis de l'extrême sud où il était né.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>Deuxième partie -- Le mystère martien</label>
         </p>
@@ -2435,7 +2440,7 @@
           <p>« Est-ce enfin un cataclysme indépendant de leur volonté qui les a jetés sur notre planète ? Il faudra que je sache tout cela...</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>Troisième partie -- Les derniers Vampires</label>
         </p>
