@@ -8,6 +8,7 @@ Collection of French novels forming an extension to the default ELTeC-fra collec
 * First published between 1821 and 1910. 
 * Around 34 million words in total
 * Origin: Primarily from the CLiGS collection 'romandixneuf'
+* All files are valid against the ELTeC level-1 schema. 
 
 ## Editors 
 
