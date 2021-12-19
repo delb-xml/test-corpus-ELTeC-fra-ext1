@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0046" xml:id="FRA40046" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -4642,11 +4644,9 @@
     <p>
      « La vieille reine, par parenthèse, fut tellement accablée par cette dernière et suprême douleur, que sans doute elle n'y survivra guère (1). Elle s'est retirée pour le moment dans une case isolée, bâtie auprès du tombeau de sa petite-fille, et ne veut plus voir âme qui vive.
     </p>
-    <ol style="list-style-type: decimal">
-     <li>
+     <p>
       La reine Pomaré est morte en 1877, laissant le trône à son second fils Ariiaue. Elle avait survécu environ deux ans à sa petite-fille. -- On peut considérer qu'à dater de ce jour commence la fin de Tahiti, au point de vue des coutumes, de la couleur locale, du charme et de l'étrangeté.
-     </li>
-    </ol>
+     </p>
     <p>
      « Rarahu observa dans cette circonstance la même coutume que les suivantes de la cour ; en signe de deuil, elle fit couper tout ras ses admirables cheveux noirs.
     </p>

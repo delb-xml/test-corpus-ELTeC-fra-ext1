@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0051" xml:id="FRA40051" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -2005,11 +2007,9 @@
      <p>
       « JEANNE MÉRY. »
      </p>
-     <ol style="list-style-type: decimal">
-      <li>
+      <p>
        Banc devant la porte.
-      </li>
-     </ol>
+      </p>
     </div>
     <div>
      <head>
@@ -3372,11 +3372,9 @@
      <p>
       Voilà maintenant que mes parents, d'accord avec mon parrain, veulent me marier avec ce grand Suirot dont je t'ai causé déjà ; on me casse la tête pour me dire qu'il est riche et que je dois avoir de l'honneur qu'il m'ait demandée. Je dis non, tu penses, et je me mine les yeux à pleurer.
      </p>
-     <ol style="list-style-type: decimal">
-      <li>
+      <p>
        Passer, mourir (cévenol).
-      </li>
-     </ol>
+      </p>
      <p>
       « Mon cher Jean, je suis bien malheureuse d'avoir tout le monde contre moi, Olivette et Rose rient de me voir toujours les yeux rouges ; je crois qu'elles, elles épouseraient très volontiers le grand Suirot si seulement il voulait d'elles. Moi, rien que d'y penser, ça me fait un frisson ; non bien sûr que je ne l'épouserai jamais, et que je leur échapperai à tous pour entrer au couvent de Saint-Bruno, s'ils me poussent à bout.
      </p>

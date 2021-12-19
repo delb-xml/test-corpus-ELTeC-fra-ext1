@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0029" xml:id="FRA40029" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -902,11 +904,9 @@
     <p>
      Alors il referma la porte, et traversa lentement la salle, le dos courbé et ses gros souliers massifs chargés de neige ; d'un coup d'épaule il tourna son panier et le posa sur le coin de la table, près de la chaire. Puis il leva sa toile cirée, et selon l'habitude je me mis à regarder la marchandise, demandant le prix de ceci et de cela.
     </p>
-    <ol start="2000" style="list-style-type: upper-roman">
-     <li>
+     <p>
       les instituteurs étaient ses meilleures pratiques, après MM. les curés, qui recommandaient ses livres, approuvés par M. Frayssinous, ministre de l'Instruction publique : l'Histoire des saints, l'Histoire des martyrs des missions en Chine, les Mœurs des Israélites, par M. l'abbé Fleury, le Paroissien et d'autres œuvres édifiantes.
-     </li>
-    </ol>
+     </p>
     <p>
      Je regardais, lui ne disait rien, quand au-dessous de tout cela j'aperçus un énorme volume qui n'était plus neuf, large, solide, carré. Je le tirai du papier par curiosité, demandant à l'ambulant ce que c'était.
     </p>

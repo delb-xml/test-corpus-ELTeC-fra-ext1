@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0017" xml:id="FRA40017" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -40,9 +42,7 @@
      </date>
     </bibl>
     <bibl type="firstEdition">
-     <p>
-      Parution en feuilleton dans Le Moniteur universel du 15 juin au 2 octobre 1875. E. Dentu, 1876.
-     </p>
+      <!-- Parution en feuilleton dans Le Moniteur universel du 15 juin au 2 octobre 1875. E. Dentu, 1876.-->
      <date>
       1875
      </date>
@@ -5220,10 +5220,12 @@
       Il n'y avait qu'à le voir au seuil de sa petite maison à devise, appuyé sur sa Charlotte, au milieu des rosiers de la façade, dans une pose prétentieuse comme une lithographie de romance, et tellement épanoui d'égoïsme satisfait qu'il en oubliait sa haine et envoyait de la main un adieu paternel et bénisseur à l'enfant qu'il venait de chasser.
      </p>
     </div>
+    <div>
     <p>
      FIN DE LA PREMIÈRE PARTIE.
     </p>
-   </div>
+    </div>
+</div>
    <div type="group">
     <head>
      DEUXIÈME PARTIE
@@ -8167,11 +8169,11 @@
      <p>
       Petite maison, grand repos.
      </p>
-    </div>
-    <head>
+    <p>
      FIN DE LA DEUXIÈME PARTIE
-    </head>
-   </div>
+    </p>
+</div>
+</div>
    <div type="group">
     <head>
      TROISIÈME PARTIE

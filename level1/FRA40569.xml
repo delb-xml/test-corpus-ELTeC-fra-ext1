@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0569" xml:id="FRA40569" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -3030,7 +3032,7 @@
      En rentrant chez lui le soir, Wenceslas eut l'explication de l'énigme que présentait sa délivrance ; il trouva chez le portier un gros paquet cacheté qui contenait le dossier de sa créance avec une quittance régulière, libellée au bas du jugement, et accompagné de la lettre suivante :
     </p>
     <milestone type="space" unit="undefined"/>
-    <p class="l3">
+    <p>
      « Mon cher Wenceslas,
     </p>
     <p>
@@ -3046,7 +3048,7 @@
     <p>
      » Léon et Bridau ne voudront pas de ton argent ; ils te demanderont chacun un groupe, et ils auront raison. C'est ce que pense celui qui voudrait pouvoir se dire ton rival, et qui n'est que
     </p>
-    <p class="r3">
+    <p>
      » Ton camarade, Stidmann. »
     </p>
     <p>
@@ -3196,7 +3198,7 @@
       .
      </l>
     </quote>
-    <p class="cont">
+    <p>
      ajouta-t-il en croyant réciter un vers français.
      <hi>
       Égoudez ein gonzèle t'ami : Vermez fôdre pudique, u fis serez tégomé
@@ -5534,7 +5536,7 @@
      <p>
       « Wenceslas, mon ami, je crois encore à ton amour, quoique je ne t'aie pas vu depuis bientôt vingt jours. Est-ce du dédain ? Dalila ne le saurait penser. N'est-ce pas plutôt un effet de la tyrannie d'une femme que tu m'as dit ne pouvoir plus aimer ? Wenceslas, tu es un trop grand artiste pour te laisser ainsi dominer. Le ménage est le tombeau de la gloire... Vois si tu ressembles au Wenceslas de la rue du Doyenné ? Tu as raté le monument de mon père ; mais chez toi l'amant est bien supérieur à l'artiste, tu es plus heureux avec la fille : tu es père, mon adoré Wenceslas. Si tu ne venais pas me voir dans l'état où je suis, tu passerais pour bien mauvais homme aux yeux de tes amis ; mais, je le sens, je t'aime si follement, que je n'aurai jamais la force de le maudire. Puis-je me dire toujours
      </p>
-     <p class="r3">
+     <p>
       » Ta VALÉRIE. »
      </p>
     </quote>
@@ -5600,9 +5602,7 @@
     </p>
     <quote>
      <p>
-      <seg type="salutation">
        « Monsieur le comte,
-      </seg>
      </p>
      <p>
       » La lettre jointe à la mienne vous expliquera la cause de la résolution que j'ai prise.
@@ -5628,7 +5628,7 @@
      <p>
       » Je vous crois trop gentilhomme pour recourir à la loi. Vous respecterez ma volonté, monsieur le comte, en me laissant chez ma mère ; et, surtout, ne vous y présentez jamais. Je vous ai laissé tout l'argent que vous a prêté cette odieuse femme. Adieu !
      </p>
-     <p class="r3">
+     <p>
       » HORTENSE HULOT. »
      </p>
     </quote>
@@ -6081,7 +6081,7 @@
      <p>
       » Mon bon chéri, je ne sais encore que faire. Je ne vois que la fuite. J'ai toujours adoré la campagne, la Bretagne, le Languedoc, tout ce que tu voudras, pourvu que je puisse t'aimer en liberté. Pauvre chat, comme je te plains ! te voilà forcé de revenir à la vieille Adeline, à cette urne lacrymale, car il a dû te le dire, le monstre, il veillera jour et nuit sur moi ; il a parlé de commissaire de police ! Ne viens pas ! je comprends qu'il est capable de tout, du moment où il faisait de moi la plus ignoble des spéculations. Aussi voudrais-je pouvoir te rendre tout ce que je tiens de tes générosités. Ah ! mon bon Hector, j'ai pu coqueter, te paraître légère, mais tu ne connaissais pas ta Valérie ; elle aimait à le tourmenter, mais elle te préfère à tout au monde. On ne peut pas t'empêcher de venir voir ta cousine, je vais combiner avec elle les moyens de nous parler. Mon bon chat, écris-moi de grâce un petit mot pour me rassurer, à défaut de ta chère présence... (oh ! je donnerais une main pour te tenir sur notre divan). Une lettre me fera l'effet d'un talisman ; écris-moi quelque chose où soit toute ta belle âme ; je te rendrai ta lettre, car il faut être prudent, je ne saurais où la cacher, il fouille partout. Enfin, rassure ta Valérie, ta femme, la mère de ton enfant. Être obligée de t'écrire, moi qui te voyais tous les jours. Aussi dis-je à Lisbeth : Je ne connaissais pas mon bonheur. Mille caresses, mon chat. Aime bien
      </p>
-     <p class="r3">
+     <p>
       » Ta VALÉRIE. »
      </p>
     </quote>
@@ -6098,7 +6098,7 @@
      <p>
       « Sois tranquille, mon ange, il crèvera sous-chef ! Ton idée est excellente, nous nous en irons vivre loin de Paris, nous serons heureux avec notre petit Hector ; je prendrai ma retraite, je saurai trouver une belle place dans quelque chemin de fer. Ah ! mon aimable amie, je me sens rajeuni par ta lettre ! Oh ! je recommencerai la vie, et je ferai, tu le verras, une fortune à notre cher petit. En lisant ta lettre, mille fois plus brûlante que celles de la Nouvelle Héloïse, elle a fait un miracle : je ne croyais pas que mon amour pour toi pût augmenter. Tu verras ce soir chez Lisbeth
      </p>
-     <p class="r3">
+     <p>
       » Ton HECTOR pour la vie ! »
      </p>
     </quote>
@@ -6220,7 +6220,7 @@
      <p>
       « Mon amour, jamais ma femme, comme je te l'ai dit, n'a, depuis vingt-cinq ans, gêné mes plaisirs. Je te sacrifierais cent Adeline ! Je serai ce soir, à neuf heures, dans le temple Crevel, attendant ma divinité. Puisse le sous-chef crever bientôt ! nous ne serions plus séparés ; voilà le plus cher des vœux de
      </p>
-     <p class="r3">
+     <p>
       » Ton HECTOR. »
      </p>
     </quote>
@@ -9918,7 +9918,7 @@
       Il a montré son ordre, et n'a rien obtenu.
      </l>
     </quote>
-    <p class="cont">
+    <p>
      Son Ordre est un joli calembour, qui prouve qu'à l'agonie monsieur le président de Montesquieu conservait toute la grâce de son génie, car on lui avait envoyé un Jésuite !... J'aime ce passage... On ne peut pas dire de sa vie, mais de sa mort. Ah ! le passage ! encore un calembour ! Le Passage Montesquieu.
     </p>
     <p>
@@ -10212,9 +10212,9 @@
      Le passage du Soleil est en effet au commencement de la rue de la Pépinière et débouche rue du Rocher. Au milieu de ce passage de création récente, et dont les boutiques sont d'un prix très-modique, la baronne aperçut, au-dessus d'un vitrage garni de taffetas vert, à une hauteur qui ne permettait pas aux passants de jeter des regards indiscrets : ÉCRIVAIN PUBLIC, et sur la porte :
     </p>
     <quote>
-     <head>
+     <p>
       CABINET D'AFFAIRES.
-     </head>
+     </p>
      <p>
       <hi>
        Ici l'on rédige les pétitions, on met les mémoires au net, etc.

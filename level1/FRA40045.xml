@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0045" xml:id="FRA40045" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -398,11 +400,9 @@
     <p>
      » Ah ! mademoiselle Abricot ! -- Cela ferait-il mon affaire, cette demoiselle Abricot ? C'est la fille d'un riche marchand de porcelaines du bazar de Décima ; une personne d'un grand mérite, mais elle coûterait fort cher : ses parents, qui en font beaucoup de cas, ne la céderaient pas à moins de cent yen* par mois. Elle est très instruite, sait couramment l'écriture commerciale et possède, au bout des doigts, plus de deux mille caractères d'écriture savante. Dans un concours de poésie, elle est arrivée première avec un morceau composé à la louange des petites fleurs blanches des haies vues à la rosée du matin. Seulement elle n'est pas très jolie de visage ; un de ses yeux est moins grand que l'autre -- et un trou lui est resté dans une joue, d'un mal qu'elle avait eu étant enfant...
     </p>
-    <ul>
-     <li>
+     <p>
       Un yen vaut 5 francs.
-     </li>
-    </ul>
+     </p>
     <p>
      -- Oh ! non, alors, de grâce, pas elle. Cherchons parmi les jeunes personnes moins distinguées, mais n'ayant pas de cicatrice. Et celles qui sont là, à côté, en belles robes brodées d'or ? Par exemple, la danseuse au masque de spectre, monsieur Kangourou ? ? ou encore celle qui chante d'une voix si douce et dont la nuque est si jolie ? ? ?
     </p>
@@ -412,11 +412,9 @@
     <p>
      -- Non, Missieu, non ! Ce sont des Guéchas*, Missieu, -- des Guéchas !
     </p>
-    <ul>
-     <li>
+     <p>
       Guéchas, chanteuses et danseuses de profession formées au Conservatoire de Yeddo.
-     </li>
-    </ul>
+     </p>
     <p>
      -- Eh bien, mais, pourquoi donc pas des Guéchas ? qu'est-ce que cela peut me faire, à moi, qu'elles soient des Guéchas ? -- Plus tard, quand je serai mieux au courant des choses japonaises, peut-être apprécierai-je moi-même l'énormité de ma demande : on dirait vraiment que j'ai parlé d'épouser le diable...
     </p>
@@ -844,19 +842,7 @@
      Et naturellement nous recevons toutes ces dames.
     </p>
     <p>
-     D'abord, il y a madame Campanule, notre voisine qui rit toujours, mariée au petit Charles N
-     <strong>
-      <em>
-       . Puis madame Jonquille, qui rit encore plus que Campanule et ressemble à un jeune oiseau ; la plus mignonne de la bande, celle-ci, mariée à X
-      </em>
-     </strong>
-     , un blond septentrional qui l'adore : c'est le couple amoureux et inséparable ; les seuls qui vont pleurer peut-être quand l'heure du départ viendra. Puis encore Sikou-San, avec le docteur Y
-     <strong>
-      <em>
-       . Et enfin l'aspirant Z
-      </em>
-     </strong>
-     , avec la petite, la minuscule madame Touki-San ; haute comme une demi-botte, celle-ci ; treize ans au plus, et déjà femme, importante, pétulante, commère. Dans mon enfance, on me menait quelquefois au théâtre des Animaux savants ; il y avait là une certaine madame de Pompadour, un grand premier rôle, qui était une guenon empanachée et que je vois encore. Cette Touki-San me la rappelle.
+     D'abord, il y a madame Campanule, notre voisine qui rit toujours, mariée au petit Charles N. Puis madame Jonquille, qui rit encore plus que Campanule et ressemble à un jeune oiseau ; la plus mignonne de la bande, celle-ci, mariée à X, un blond septentrional qui l'adore : c'est le couple amoureux et inséparable ; les seuls qui vont pleurer peut-être quand l'heure du départ viendra. Puis encore Sikou-San, avec le docteur Y. Et enfin l'aspirant Z, avec la petite, la minuscule madame Touki-San ; haute comme une demi-botte, celle-ci ; treize ans au plus, et déjà femme, importante, pétulante, commère. Dans mon enfance, on me menait quelquefois au théâtre des Animaux savants ; il y avait là une certaine madame de Pompadour, un grand premier rôle, qui était une guenon empanachée et que je vois encore. Cette Touki-San me la rappelle.
     </p>
     <p>
      Le soir, tout ce monde vient généralement nous chercher, pour une grande promenade aux lanternes qui se fait maintenant en cortège. Ma femme, à moi, plus sérieuse, plus triste, plus distinguée peut-être, appartenant, je crois, à une classe un peu meilleure, s'essaie à jouer à la maîtresse de maison quand ces amis arrivent. Et c'est comique de voir entrer tous ces couples mal assortis, unis pour un, jour ; les dames avec leurs révérences articulées, tombant à quatre pattes, en trois temps, devant Chrysanthème, la reine de céans.
@@ -919,11 +905,9 @@
     <p>
      M. Sucre et madame Prune*, mon propriétaire et sa femme, deux impayables, échappés de paravent, habitent au-dessous de nous, au rez-de-chaussée. Bien vieux l'un et l'autre pour avoir cette fille de quinze ans, Oyouki, l'amie inséparable de Chrysanthème.
     </p>
-    <ul>
-     <li>
+     <p>
       En japonais : Sato-San et Oumé-San.
-     </li>
-    </ul>
+     </p>
     <p>
      Confits tous deux en dévotion shintoïste ; toujours à genoux devant leur autel familial ; toujours occupés à dire aux Esprits leurs longues oraisons, en claquant des mains de temps en temps pour rappeler autour d'eux ces essences inattentives qui flottent dans les airs. -- À leurs moments perdus, cultivent, dans des petits pots de faïence peinturlurée, des arbustes nains, des fleurs invraisemblables qui le soir sentent très bon.
     </p>
@@ -1348,11 +1332,9 @@
     <p>
      Enfin voici notre lanterne décrochée, allumée, payée. En face, il y a une autre boutique à laquelle nous nous arrêtons aussi chaque soir ; c'est chez madame L'Heure*, la marchande de gaufres ; nous faisons toujours provision chez elle pour nous soutenir pendant la route. -- Très sémillante cette pâtissière, et en frais de coquetterie avec nous ; elle forme vignette de paravent derrière ses piles de gâteaux agrémentées de petits bouquets. Abritons-nous sous son toit pour attendre, -- et, à cause des gouttières qui tombent dru, plaquons-nous le plus possible contre son étalage de bonbons blancs ou roses, arrangés très artistement sur des branches de cyprès fines et fraîches.
     </p>
-    <ul>
-     <li>
+     <p>
       En japonais : Tôki-San.
-     </li>
-    </ul>
+     </p>
     <p>
      Pauvre 415, quelle providence pour nous ! -- Il reparaît déjà, cet excellent cousin, toujours souriant, toujours courant, tandis que l'eau ruisselle sur ses belles jambes nues, et il nous apporte deux parapluies, empruntés à un marchand de porcelaine qui est aussi notre parent éloigné. Yves, comme moi, jamais de sa vie n'avait voulu se servir de ce genre d'objet, mais il accepte ceux-ci parce qu'ils sont drôles : en papier naturellement, à plissures cirées et gommées, avec l'inévitable vol de cigognes semé en guirlande tout autour.
     </p>
@@ -1584,11 +1566,7 @@
      Elle sourit comme une petite fille qui est contente, et vraiment il faudrait être difficile pour ne pas convenir qu'elle est mignonne ce soir.
     </p>
     <p>
-     Allons, j'annonce que nous descendrons sans plus tarder faire une grande promenade dans Nagasaki ; nous emmènerons Oyouki-San, deux cousines de Chrysanthème qui se trouvent là, et d'autres petites voisines encore si cela leur fait plaisir ; nous achèterons les jouets les plus drôles ; nous mangerons toute espèce de gâteaux, nous nous amuserons beaucoup. Comme nous arrivons bien, disent-elles en sautant de joie ; comme nous arrivons à point ! Justement il y a pèlerinage de nuit au grand temple de la Tortue Sauteuse ! Toute la ville y sera ; tous les camarades mariés viennent de partir, toute la bande X
-     <em>
-      , Y
-     </em>
-     , Z*, Touki-San, Campanule et Jonquille, avec l'ami d'une invraisemblable hauteur. Et elles deux, pauvre Chrysanthème, pauvre Oyouki-San, le cœur très gros, restaient au logis, parce que nous n'étions pas là et parce que madame Prune, après son dîner, avait été prise de pâmoisons et de vapeurs...
+     Allons, j'annonce que nous descendrons sans plus tarder faire une grande promenade dans Nagasaki ; nous emmènerons Oyouki-San, deux cousines de Chrysanthème qui se trouvent là, et d'autres petites voisines encore si cela leur fait plaisir ; nous achèterons les jouets les plus drôles ; nous mangerons toute espèce de gâteaux, nous nous amuserons beaucoup. Comme nous arrivons bien, disent-elles en sautant de joie ; comme nous arrivons à point ! Justement il y a pèlerinage de nuit au grand temple de la Tortue Sauteuse ! Toute la ville y sera ; tous les camarades mariés viennent de partir, toute la bande X, Y, Z*, Touki-San, Campanule et Jonquille, avec l'ami d'une invraisemblable hauteur. Et elles deux, pauvre Chrysanthème, pauvre Oyouki-San, le cœur très gros, restaient au logis, parce que nous n'étions pas là et parce que madame Prune, après son dîner, avait été prise de pâmoisons et de vapeurs...
     </p>
     <p>
      Vite, la toilette des mousmés. Chrysanthème est déjà prête. Oyouki change de robe à la hâte, s'habille de gris souris, me prie d'arranger le nœud bouffant de sa belle ceinture --, qui est en satin noir doublé de jaune orange --, et plante, bien haut dans ses cheveux, un pompon d'argent. Nous allumons nos lanternes au bout de bâtonnets ; M. Sucre remercie pour sa fille, remercie à n'en plus finir, nous reconduit, tombe à quatre pattes sur sa porte --, et nous nous éloignons assez gaiement, dans la nuit transparente et douce.
@@ -1742,11 +1720,9 @@
     <p>
      Depuis Chrysanthème (l'aînée et la première cause de cette déchéance), ma belle-mère, nature expansive bien que distinguée, est retombée sept fois encore dans la même erreur : deux petites belles-sœurs cadettes, mademoiselle La Neige* et mademoiselle La Lune** ; cinq petits beaux-frères puînés, Cerisier, Pigeon, Liseron, Or et Bambou.
     </p>
-    <ul>
-     <li>
+     <p>
       En japonais : Oyouki-San (comme la fille de madame Prune).
-     </li>
-    </ul>
+     </p>
     <p>
      ** En japonais : Tsouki-San.
     </p>
@@ -1800,11 +1776,9 @@
     <p>
      Elle se tient courbée, prosternée en révérence très humble ; elle sourit timidement dans la crainte d'être mal reçue, et la tête de mon petit beau-frère Bambou se dresse, souriante aussi, au-dessus de la sienne. Elle l'a apporté avec elle, à califourchon sur ses reins, ce petit mousko*, toujours impayable, lui, avec sa tonsure, sa longue robe et les grosses coques de sa ceinture de soie. Et ils nous regardent tous deux, inquiets de savoir comment nous allons prendre leur équipée.
     </p>
-    <ul>
-     <li>
+     <p>
       Mousko signifie petit garçon. C'est le masculin de mousmé. On dit même en général mousko-san (monsieur le mousko), par excessive politesse.
-     </li>
-    </ul>
+     </p>
     <p>
      Mon Dieu, je n'ai nulle envie de leur faire mauvais accueil ; au contraire, leur apparition m'amuse. Je trouve même très gentil de la part de Chrysanthème cette façon d'être revenue et cette idée d'avoir apporté Bambou-San à la fête, bien que ce soit assez peuple, à vrai dire, de se l'être attaché sur le dos, comme font les pauvresses nipponnes pour leurs petits...
     </p>
@@ -2049,11 +2023,9 @@
     <p>
      Eh bien ! ces cuves en porcelaine sont un des grands soucis quotidiens de notre ménage : jamais d'eau là-dedans, le soir, quand nous rentrons de la promenade, après cette montée qui nous a donné soif et après ces gaufres de madame L'Heure que nous avons mangées en manière de passe-temps tout le long de la route. Impossible d'obtenir que madame Prune ou mademoiselle Oyouki, ou leur jeune servante mademoiselle Dédé*, aient la prévoyance de remplir cela pendant qu'il fait jour. -- Et, quand nous rentrons tard, ces trois dames sont endormies : nous voilà obligés de vaquer à ce soin nous-mêmes.
     </p>
-    <ul>
-     <li>
+     <p>
       Dédé-San signifie en français : « mademoiselle Jeune fille » ; c'est un nom très répandu.
-     </li>
-    </ul>
+     </p>
     <p>
      Donc, il faut rouvrir toutes les portes fermées, se rechausser et descendre dans le jardin puiser de l'eau.
     </p>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0624" xml:id="FRA40624" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -7186,7 +7188,7 @@
       -- Vive Esteban, le roi des gueux !
      </p>
     </div>
-    <div type="finale">
+    <div type="group">
      <p>
       FIN DE LA PREMIÈRE PARTIE
      </p>

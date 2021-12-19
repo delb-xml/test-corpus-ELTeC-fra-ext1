@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0628" xml:id="FRA40628" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -7721,7 +7723,7 @@
       Nous y avons retrouvé le marquis de Rio-Santo ; nous l'avons vu démolir ce fleuron de la couronne anglaise et, son œuvre achevée là, prêt à porter ailleurs le poids de sa vengeance et de sa haine. Avec nos lecteurs, nous allons le suivre.
      </p>
     </div>
-    <div type="finale">
+    <div type="group">
      <p>
       FIN DE LA CINQUIÈME PARTIE
      </p>

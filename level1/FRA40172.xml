@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0172" xml:id="FRA40172" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -110,7 +112,7 @@
     <head>
      PREMIÈRE PARTIE
     </head>
-    <div>
+    <div type="chapter">
      <head>
       I
      </head>
@@ -592,7 +594,7 @@
       -- Non ! à y rester ! »
      </p>
     </div>
-    <div>
+    <div type="chapter">
      <head>
       II
      </head>
@@ -1655,9 +1657,6 @@
      <p>
       Puis, la grille fut appliquée sur cet ensemble, de manière que le côté marqué d'une petite croix se trouvât placé en haut. Et alors les neuf cases vides laissèrent apparaître les neuf lettres suivantes, pendant que les vingt-sept autres restaient cachées par les pleins du carton.
      </p>
-     <ul>
-      <li/>
-     </ul>
      <p>
       Sarcany fit alors faire un quart de tour à la grille, de gauche à droite, de façon que le côté supérieur devînt cette fois le côté latéral droit. Dans cette seconde application, ce furent les lettres suivantes, qui apparurent à travers les vides :
      </p>

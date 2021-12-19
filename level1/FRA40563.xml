@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0563" xml:id="FRA40563" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -1120,9 +1122,7 @@
       Décembre 1825.
      </p>
      <p>
-      <seg type="salutation">
        Madame,
-      </seg>
      </p>
      <p>
       Ma femme n'a pas voulu que vous apprissiez par le vulgaire billet de faire part un événement qui nous comble de joie. Elle vient d'accoucher d'un gros garçon, et nous retarderons son baptême jusqu'au moment où vous retournerez à votre terre de Chantepleurs. Nous espérons, Renée et moi, que vous pousserez jusqu'à la Crampade et que vous serez la marraine de notre premier-né. Dans cette espérance, je viens de le faire inscrire sur les registres de l'État-Civil sous les noms d'Armand-Louis de l'Estorade. Notre chère Renée a beaucoup souffert, mais avec une patience angélique. Vous la connaissez, elle a été soutenue dans cette première épreuve du métier de mère par la certitude du bonheur qu'elle nous donnait à tous. Sans me livrer aux exagérations un peu ridicules des pères qui sont pères pour la première fois, je puis vous assurer que le petit Armand est très-beau ; mais vous le croirez sans peine quand je vous dirai qu'il a les traits et les yeux de Renée. C'est avoir eu déjà de l'esprit. Maintenant que le médecin et l'accoucheur nous ont affirmé que Renée n'a pas le moindre danger à courir, car elle nourrit, l'enfant a très-bien pris le sein, le lait est abondant, la nature est si riche en elle ! nous pouvons mon père et moi nous abandonner à notre joie. Madame, cette joie est si grande, si forte, si pleine, elle anime tellement toute la maison, elle a tant changé l'existence de ma chère femme, que je désire pour votre bonheur qu'il en soit ainsi promptement pour vous. Renée a fait préparer un appartement que je voudrais rendre digne de nos hôtes, mais où vous serez reçus du moins avec une cordialité fraternelle, sinon avec faste.

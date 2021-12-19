@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI n="rd0040" xml:id="FRA40040" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
   <fileDesc>
@@ -105,13 +107,11 @@
       I
      </head>
      <p>
-      <s ana="de">
        Nous étions à l'Étude, quand le
        <hi>
         Proviseur
        </hi>
        entra, suivi d'un nouveau habillé en bourgeois et d'un garçon de classe qui portait un grand pupitre.
-      </s>
       Ceux qui dormaient se réveillèrent, et chacun se leva comme surpris dans son travail.
      </p>
      <p>
