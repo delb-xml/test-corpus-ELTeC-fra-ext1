@@ -4,9 +4,9 @@ Collection of French novels forming an extension to the default ELTeC-fra collec
 
 ## Description 
 
-* 387 novels are included as of December 2021. 
-* First published between 1821 and 1910. 
-* Around 34 million words in total
+* 370 novels are included as of April 2022. 
+* First published between 1840 and 1910. 
+* Around 32 million words in total
 * Origin: Primarily from the CLiGS collection 'romandixneuf'
 * All files are valid against the ELTeC level-1 schema. 
 
